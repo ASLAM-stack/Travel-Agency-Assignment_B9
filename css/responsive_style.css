@@ -48,6 +48,13 @@
 
 
 }
+@media screen and (max-width:870px)
+{
+    .navber-container
+    {
+        display: none;
+    }
+}
 
 @media screen and (max-width:768px) {
     .box-row_container
