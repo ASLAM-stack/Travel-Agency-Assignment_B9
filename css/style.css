@@ -186,6 +186,11 @@ header
 .find-btn{
     padding: 12px 30px !important;
 }
+.toggle-btn
+{
+    font-size: 30px;
+    display:none;
+}
 /* about section css */
 .about-container
 {
