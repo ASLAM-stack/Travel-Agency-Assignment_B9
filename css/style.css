@@ -125,10 +125,12 @@ header
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 .banner_heading
 {
     margin-bottom: 48px;
+    text-align: center;
 }
 .banner_container{
     height: 500px;
